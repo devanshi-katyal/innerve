@@ -1,0 +1,56 @@
+.navbar-brand{
+  width:10%;
+  height:120px;
+}
+body{
+  background-image: url("bg.jpg");
+}
+.navbar{
+background-color: black;
+padding:0;
+}
+.nav-link{
+  color:white;
+}
+.intro{
+
+  padding:1% 5%;
+}
+.mainintro{
+  background-color: black;
+  color:white;
+  padding:10% 5%;
+  text-align: center;
+}
+.mainh{
+  font-family: 'Black Ops One', cursive;
+  font-size:6em;
+  padding:5%;
+}
+h2{
+  color:#cbeaed;
+  font-family: 'Faster One', cursive;
+  padding:2%;
+}
+.info{
+  background-color: black;
+  color:white;
+  padding:5%;
+  text-align: center;
+  margin: 5% 15%;
+}
+p{
+  padding:5%;
+}
+.footer{
+  background-color: black;
+  color:white;
+  padding:2% 5%;
+}
+.modal-header{
+  background-color: black;
+  color:white;
+}
+.navbar-toggler-icon{
+  background-color:white;
+}
